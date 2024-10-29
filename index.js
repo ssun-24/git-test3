@@ -15,6 +15,6 @@ function divide7(a, b) {
 }
 
 function square(a, b) {
-  return a * a
+  return a * a;
 }
 
