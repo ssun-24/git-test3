@@ -14,5 +14,7 @@ function divide7(a, b) {
   return a / b
 }
 
-revertdfs
+function square(a, b) {
+  return a * a
+}
 
